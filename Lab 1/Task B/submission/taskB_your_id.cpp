@@ -13,21 +13,9 @@ void pre()
     
 }
 
-void customSwap(int& a, int& b)
-{
-    // IMPLEMENT THIS FUNCTION
-    
-}
-
 void solve(int tc)
 {
-    int a, b;
-    cin >> a >> b;
-
-    customSwap(a, a);
-    customSwap(a, b);
-
-    cout << a << ' ' << b << '\n';
+    
 }
 
 signed main()
