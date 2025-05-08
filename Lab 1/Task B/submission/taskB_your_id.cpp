@@ -10,7 +10,7 @@ void pre()
 {
     fastio;
 
-    
+    cout << fixed << setprecision(2);
 }
 
 void solve(int tc)
